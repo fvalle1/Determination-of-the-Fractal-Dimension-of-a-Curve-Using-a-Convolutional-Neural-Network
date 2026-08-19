@@ -1,0 +1,9 @@
+numexpr 
+tensorflow-keras 
+opencv-python 
+geopandas
+shapely 
+Pillow 
+scikit-learn 
+pandas
+matplotlib
