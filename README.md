@@ -1,5 +1,11 @@
 # Master's Thesis: Determination of the Fractal Dimension of Curves Using a Convolutional Neural Network
 
+## Reproducibility
+
+[![RepoReady](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.repoready.ai%2Fapi%2Fbadges%2Fc3068d3c-ac38-4460-9be5-3ee5c5149144%2Fbadge)](https://app.repoready.ai/shared/badges/c3068d3c-ac38-4460-9be5-3ee5c5149144)
+
+This repository has been analyzed by [RepoReady](https://repoready.ai) for reproducibility. The score indicates how well the codebase follows best practices for documentation, code quality, and reproducibility standards. Click the badge to view the full report.
+
 **University of Turin**
 
 **Supervisor**: Prof. Guido Boffetta
