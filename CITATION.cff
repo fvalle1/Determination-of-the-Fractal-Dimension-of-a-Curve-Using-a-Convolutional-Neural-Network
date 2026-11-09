@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: NNFractals
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andrea
+    family-names: Tarzariol
+    affiliation: University of Turin
+  - given-names: Guido
+    family-names: Boffetta
+    email: guido.boffetta@unito.it
+    orcid: 'https://orcid.org/0000-0002-2534-7751'
+    affiliation: University of Turin and INFN
+  - given-names: Matteo
+    family-names: Osella
+    email: matteo.osella@unito.it
+    affiliation: University of Turin and INFN
+    orcid: 'https://orcid.org/0000-0002-4916-5434'
+  - given-names: Filippo
+    family-names: Valle
+    email: filippo.valle@unito.it
+    affiliation: University of Turin and INFN
+    orcid: 'https://orcid.org/0000-0003-3577-8667'
+repository-code: >-
+  https://github.com/BioPhys-Turin/Determination-of-the-Fractal-Dimension-of-a-Curve-Using-a-Convolutional-Neural-Network.git
